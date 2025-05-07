@@ -93,4 +93,3 @@ const Container = styled.div`
     }
   }
 `;
-// #F98866, #FFF2D7
