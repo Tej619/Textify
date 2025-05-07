@@ -10,7 +10,7 @@ Texify is the chat application which is build with MERN stack. You can find the 
 
 #### How to run
 ```shell
-git clone
+git clone https://github.com/Tej619/Textify.git
 cd server
 npm install 
 
