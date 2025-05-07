@@ -34,7 +34,7 @@ app.use("/api/messages", messageRoutes);
 
 const io = socket(server, {
   cors: {
-    origin: "textify-id5lhgo7r-tej619s-projects.vercel.app",
+    origin: "http://localhost:3000",
     credentials: true,
   },
 });
